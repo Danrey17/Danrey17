@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danrey17
 - 👀 I’m interested in creating simple games
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 09216593564
 - 😄 Pronouns: ???
